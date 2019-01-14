@@ -1,0 +1,7 @@
+Starting the chrome debugger
+node/nodemon --inspect-brk FileToDebug
+
+Useful Requires
+-fs
+-yargs
+-lodash
